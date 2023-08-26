@@ -51,11 +51,3 @@ This app was developed as part of the 100DaysOfCode Python Bootcamp on Udemy. Th
 ## Disclaimer
 
 The code for this project originates from the 100DaysOfCode Python Bootcamp on Udemy. It has been used and adapted for educational purposes. If you use this project or its code, make sure to understand and respect the original creator's rights and the licensing terms associated with the course content.
-
-## License
-
-This project is provided under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README to include your own details and any additional information you'd like to provide about your Quizzer app!
